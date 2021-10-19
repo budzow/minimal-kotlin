@@ -1,2 +1,2 @@
-fun emptyfunction123() {
+fun emptyfunction() {
 }
